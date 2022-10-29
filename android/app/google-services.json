@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097956041655",
+    "project_id": "comics-app-3928d",
+    "storage_bucket": "comics-app-3928d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097956041655:android:b584935145527207c1fe32",
+        "android_client_info": {
+          "package_name": "com.example.comics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097956041655-bj9sar0v1g8bs9grlnq6pbttnu1jqjcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE4wKOz91UrEc8kg5a5KWQkfAT8wVFIoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097956041655-bj9sar0v1g8bs9grlnq6pbttnu1jqjcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
