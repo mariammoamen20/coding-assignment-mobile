@@ -10,7 +10,7 @@
 /// title : "Encryption"
 /// day : "28"
 
-class ComicResponse {  
+class ComicResponse {
   String? month;
   int? num;
   String? link;
@@ -27,20 +27,20 @@ class ComicResponse {
   String? message;
 
   ComicResponse({
-      this.month, 
-      this.num, 
-      this.link, 
-      this.year, 
-      this.news, 
-      this.safeTitle, 
-      this.transcript, 
-      this.alt, 
-      this.img, 
-      this.title, 
-      this.day,
-      this.status,
-     this.code,
-     this.message
+    this.month,
+    this.num,
+    this.link,
+    this.year,
+    this.news,
+    this.safeTitle,
+    this.transcript,
+    this.alt,
+    this.img,
+    this.title,
+    this.day,
+    this.status,
+    this.code,
+    this.message
   });
 
   ComicResponse.fromJson(dynamic json) {

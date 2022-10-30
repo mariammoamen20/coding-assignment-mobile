@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 
 class ApiManger {
   //current comic
-  static Future<ComicResponse> getCurrentComics() async {
+/*  static Future<ComicResponse> getCurrentComics() async {
     var url  = Uri.https(BASE_URL ,EndPoint.currentComicEndpoint);
     var response  = await http.get(url);
     var json = jsonDecode(response.body);
@@ -22,6 +22,6 @@ class ApiManger {
     var json = jsonDecode(response.body);
     ComicResponse comicResponse = ComicResponse.fromJson(json);
     return comicResponse;
-  }
+  }*/
 
 }
