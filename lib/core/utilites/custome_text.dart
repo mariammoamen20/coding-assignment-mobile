@@ -19,10 +19,3 @@ class CustomText extends StatelessWidget {
     );
   }
 }
-/*                    Text( '${comicResponse.title}',style: const TextStyle(
-                      color: Colors.black,
-                      fontSize: 16,
-                      fontFamily: 'Pop',
-                      fontWeight: FontWeight.bold
-                    ),),
-*/

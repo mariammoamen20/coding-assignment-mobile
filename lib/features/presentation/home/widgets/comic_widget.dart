@@ -1,10 +1,8 @@
-import 'package:comics/presentation/home/widgets/comic_item.dart';
-import 'package:comics/presentation/home/widgets/current_comic.dart';
-import 'package:comics/presentation/home/widgets/custome_text.dart';
+import 'package:comics/features/presentation/home/widgets/comic_item.dart';
+import 'package:comics/features/presentation/home/widgets/current_comic.dart';
 import 'package:flutter/material.dart';
-
-import '../../../data/api_manger.dart';
-import '../../../data/comic_response.dart';
+import '../../../data/repo/api_manger.dart';
+import '../../../data/model/comic_response.dart';
 
 
 class ComicWidget extends StatelessWidget {

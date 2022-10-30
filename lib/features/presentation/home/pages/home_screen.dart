@@ -1,5 +1,3 @@
-import 'package:comics/data/api_manger.dart';
-import 'package:comics/data/comic_response.dart';
 import 'package:flutter/material.dart';
 import '../widgets/comic_widget.dart';
 class  HomeScreen extends StatelessWidget {
